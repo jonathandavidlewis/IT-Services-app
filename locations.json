@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Vista Location",
+    "street_address": "333 Walnut St.",
+    "city": "Vista",
+    "state": "CA",
+    "zip": "92083",
+    "phone": "760-505-7688"
+  },
+  {
+    "id": 2,
+    "name": "San Marcos Location",
+    "street_address": "908 Grand Ave.",
+    "city": "San Marcos",
+    "state": "CA",
+    "zip": "92083",
+    "phone": "760-890-5544"
+  },
+  {
+    "id": 3,
+    "name": "Long Beach Location",
+    "street_address": "8301 E. Market Street",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90805",
+    "phone": "562-575-9440"
+  }  
+]

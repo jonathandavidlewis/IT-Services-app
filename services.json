@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Hardware Repair",
+    "description": "Take your hardware into our shop for top notch service.  We will run a free diagnostic on your machine at no charge to you. If you should need repair, we have the tools to get you back up and running in no time.",
+    "image": "http://static.ccm2.net/ccm.net/faq/images/1693-best-motherboard-s-.png"
+  },  
+  {
+    "id": 2,
+    "name": "Virus Removal",
+    "description": "Take your hardware into our shop for top notch service.  We will run a free diagnostic on your machine at no charge to you. If you should need repair, we have the tools to get you back up and running in no time.",
+    "image": "https://previews.123rf.com/images/yupiramos/yupiramos1503/yupiramos150301270/37146140-computer-virus-design-vector-illustration-eps10-graphic-Stock-Vector.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Remote Support",
+    "description": "Take your hardware into our shop for top notch service.  We will run a free diagnostic on your machine at no charge to you. If you should need repair, we have the tools to get you back up and running in no time.",
+    "image": "http://www.hayescomputers.com/images/large%20icon.jpg"
+  },
+  {
+    "id": 4,
+    "name": "PC Performance Boost",
+    "description": "Take your hardware into our shop for top notch service.  We will run a free diagnostic on your machine at no charge to you. If you should need repair, we have the tools to get you back up and running in no time.",
+    "image": "https://dragonartz.files.wordpress.com/2008/12/_graphics-statistics-graph-preview3-by-dragonart.png"
+  }
+]
