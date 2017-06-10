@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Hardware Repair",
     "description": "Take your hardware into our shop for top notch service.  We will run a free diagnostic on your machine at no charge to you. If you should need repair, we have the tools to get you back up and running in no time.",
-    "image": "http://static.ccm2.net/ccm.net/faq/images/1693-best-motherboard-s-.png"
+    "image": "https://static.ccm2.net/ccm.net/faq/images/1693-best-motherboard-s-.png"
   },  
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "id": 3,
     "name": "Remote Support",
     "description": "Take your hardware into our shop for top notch service.  We will run a free diagnostic on your machine at no charge to you. If you should need repair, we have the tools to get you back up and running in no time.",
-    "image": "http://www.hayescomputers.com/images/large%20icon.jpg"
+    "image": "https://www.hayescomputers.com/images/large%20icon.jpg"
   },
   {
     "id": 4,
